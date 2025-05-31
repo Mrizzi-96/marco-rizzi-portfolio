@@ -19,10 +19,10 @@
             <RouterLink to="/about" class="nav-link">About</RouterLink>
           </li>
           <li class="nav-item">
-            <RouterLink to="/about" class="nav-link">Skills</RouterLink>
+            <RouterLink to="/skills" class="nav-link">Skills</RouterLink>
           </li>
           <li class="nav-item">
-            <RouterLink to="/about" class="nav-link">Portfolio</RouterLink>
+            <RouterLink to="/portfolio" class="nav-link">Portfolio</RouterLink>
           </li>
           <li class="nav-item">
             <RouterLink to="/contact" class="nav-link">Contact</RouterLink>

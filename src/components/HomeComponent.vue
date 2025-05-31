@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { faItchIo } from '@fortawesome/free-brands-svg-icons'
+</script>
 
 <template>
   <div class="container col-xxl-8 px-4 py-5">
@@ -23,8 +25,14 @@
           free time and playing the drums in the evening.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
-          <button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button>
+          <button
+            type="button"
+            class="btn btn-outline-danger"
+            data-bs-toggle="tooltip"
+            data-bs-title="Default tooltip"
+          >
+            <font-awesome-icon :icon="['fab', 'itch-io']" />
+          </button>
         </div>
       </div>
     </div>
