@@ -1,16 +1,21 @@
 <script setup lang="ts">
-import Navbar from './components/Navbar.vue'
-import { RouterView } from 'vue-router'
+import ContactView from './views/ContactView.vue'
+import Header from './views/Header.vue'
+import PortfolioView from './views/PortfolioView.vue'
+import SkillsView from './views/SkillsView.vue'
 </script>
 <template>
   <main>
-    <Navbar></Navbar>
-    <RouterView></RouterView>
+    <Header></Header>
+    <HomeView></HomeView>
+    <AboutView></AboutView>
+    <SkillsView></SkillsView>
+    <PortfolioView></PortfolioView>
+    <ContactView></ContactView>
+    <Footer></Footer>
   </main>
 </template>
 
-<style scoped>
-main {
-  width: 100%;
-}
+<style>
+@import './assets/main.css';
 </style>
