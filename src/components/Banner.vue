@@ -1,8 +1,8 @@
 <template>
   <div class="banner">
     <div class="banner-text">
-      <h1 class="display-text">{{ name.first }} {{ name.last }}</h1>
-      <h2 id="typewriter"></h2>
+      <h1 class="font-monospace banner-main__title">{{ name.first }} {{ name.last }}</h1>
+      <h2 id="typewriter" class="font-monospace"></h2>
     </div>
   </div>
 </template>
@@ -26,7 +26,8 @@ export default {
       strings: titles,
       autoStart: true,
       loop: true,
-      deleteSpeed: 5,
+      deleteSpeed: 2,
+      delay: 40,
     })
   },
 }

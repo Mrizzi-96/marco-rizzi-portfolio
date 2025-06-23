@@ -5,7 +5,7 @@
       "last": " Rizzi"
     },
     "logo": false,
-    "titles": ["Software developer.", "Game developer."],
+    "titles": ["Software developer.", "Game developer.", "Drummer enthusiast."],
     "headings": {
       "about": "About",
       "skills": "Skills",
@@ -14,12 +14,12 @@
     }
   },
   "about": {
-    "bio": "I discovered oil painting while I was enlisted in the U.S. Air Force in Alaska in the early 1960s. I studied the 'wet-on-wet' technique, also known as 'Alla Prima', used by other great painters such as Rembrandt & Monet. This allowed me to produce complete paintings in less than an hour. I then became an art instructor, creating my iconic image and eventually teaching a TV audience of millions on the TV show The Joy of Painting.",
+    "bio": "I am a software and game developer, focused on learning new skills and developing new projects. I enjoy creating small games in Godot 4, Unity and Unreal Engine, for game jams but also for fun. In my spare time, I love to play games and to play drums. I studied programming in Alessandria, Italy, and I now work full-time as a Software developer.",
     "tagline": "We don't make mistakes, just happy little accidents",
     "facts": [
-      { "name": "Hometown", "value": "Orlando, FL" },
-      { "name": "Painting Technique", "value": "Alla Prima" },
-      { "name": "# of Paintings", "value": "1,143" },
+      { "name": "Hometown", "value": "Tortona, Italy" },
+      { "name": "Known game engines", "value": "Godot, Unity, Unreal Engine" },
+      { "name": "Developed games", "value": "5" },
       { "name": "Sun Sign", "value": "Scorpio" }
     ]
   },

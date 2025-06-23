@@ -1,20 +1,20 @@
-<script setup lang="ts">
-import ContactView from './views/ContactView.vue'
-import Header from './views/Header.vue'
-import PortfolioView from './views/PortfolioView.vue'
-import SkillsView from './views/SkillsView.vue'
-</script>
 <template>
-  <main>
-    <Header></Header>
-    <HomeView></HomeView>
-    <AboutView></AboutView>
-    <SkillsView></SkillsView>
-    <PortfolioView></PortfolioView>
-    <ContactView></ContactView>
-    <Footer></Footer>
-  </main>
+  <Navbar></Navbar>
+  <HomeView></HomeView>
 </template>
+
+<script>
+import Navbar from './components/Navbar.vue'
+import HomeView from './views/HomeView.vue'
+
+export default {
+  name: 'App',
+  components: {
+    Navbar,
+    HomeView,
+  },
+}
+</script>
 
 <style>
 @import './assets/main.css';

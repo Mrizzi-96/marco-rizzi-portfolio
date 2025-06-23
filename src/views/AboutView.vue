@@ -8,7 +8,7 @@
       </div>
     </div>
   </div>
-  <div class="container">
+  <div class="container text-black">
     <div class="row row-cols-2 g-3">
       <div class="col-lg-6">
         <h4 class="border-bottom">Experiences</h4>

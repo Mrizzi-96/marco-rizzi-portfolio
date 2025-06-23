@@ -1,7 +1,7 @@
 <template>
   <div class="row arrow-container">
     <a href="#about" class="arrow-icon" role="button">
-      <i class="fas fa-chevron-down fa-4x"></i>
+      <font-awesome-icon :icon="['fas', 'chevron-down']" size="4x" />
     </a>
   </div>
 </template>
