@@ -26,7 +26,7 @@
       <div id="navbarNavAltMarkup" class="collapse navbar-collapse">
         <ul id="navbar-nav" class="navbar-nav ms-auto">
           <li class="active-nav">
-            <a class="nav-item nav-link" href="#home">Home</a>
+            <a class="nav-item nav-link" href="#">Home</a>
           </li>
           <li><a class="nav-item nav-link" href="#about">About</a></li>
           <li><a class="nav-item nav-link" href="#skills">Skills</a></li>

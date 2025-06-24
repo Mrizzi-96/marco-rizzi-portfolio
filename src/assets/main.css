@@ -58,6 +58,10 @@ nav {
 #hero {
   position: inherit;
 }
+
+section {
+  padding-block: 1rem;
+}
 .section-header {
   font-weight: 600;
   border-bottom: 1px solid var(--portfolio-secondary);
