@@ -14,13 +14,18 @@
     }
   },
   "about": {
-    "bio": "I am a software and game developer, focused on learning new skills and developing new projects. I enjoy creating small games in Godot 4, Unity and Unreal Engine, for game jams but also for fun. In my spare time, I love to play games and to play drums. I studied programming in Alessandria, Italy, and I now work full-time as a Software developer.",
+    "bio": "I am a software and game developer, focused on learning new skills and developing new projects. I enjoy creating small games in Godot, Unity and Unreal Engine, for game jams but also for fun. In my spare time, I love to play games and to play drums. I studied programming in Alessandria, Italy, and I now work full-time as a Software developer.",
     "tagline": "We don't make mistakes, just happy little accidents",
     "facts": [
-      { "name": "Hometown", "value": "Tortona, Italy" },
-      { "name": "Known game engines", "value": "Godot, Unity, Unreal Engine" },
-      { "name": "Developed games", "value": "5" },
-      { "name": "Sun Sign", "value": "Scorpio" }
+      { "name": "Hometown", "value": "Pavia, Italy" },
+      {
+        "name": "Job title",
+        "value": "Software developer - <a href=\"https://www.ramaplast.it/\">Ramaplast S.p.A.</a>"
+      },
+      {
+        "name": "Main hobbies",
+        "value": "Gaming, playing board games, padel and drums."
+      }
     ]
   },
   "skills": {
