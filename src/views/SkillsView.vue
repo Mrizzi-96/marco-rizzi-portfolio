@@ -26,6 +26,13 @@
         </div>
         <div class="col-auto">
           <div class="d-flex flex-column align-items-center justify-content-center">
+            <font-awesome-icon :icon="['fab', 'unity']" class="icon-custom" />
+            <h5 class="skills-header border-bottom w-100">Game Engines</h5>
+            <p>Unity, Godot, Unreal Engine, Game Maker Studio</p>
+          </div>
+        </div>
+        <div class="col-auto">
+          <div class="d-flex flex-column align-items-center justify-content-center">
             <font-awesome-icon :icon="['fas', 'fa-tools']" class="icon-custom" />
             <h5 class="skills-header border-bottom w-100">Operating systems & tools</h5>
             <p>
