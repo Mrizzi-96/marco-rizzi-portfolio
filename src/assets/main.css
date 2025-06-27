@@ -60,7 +60,8 @@ nav {
 }
 
 section {
-  padding-block: 1rem;
+  padding-block: 5%;
+  min-height: 50%;
 }
 .section-header {
   font-weight: 600;

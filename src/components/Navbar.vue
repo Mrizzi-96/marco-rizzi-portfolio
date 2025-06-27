@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg sticky-top dark-bg">
+  <nav class="navbar navbar-expand-lg fixed-top dark-bg">
     <div class="container">
       <a class="navbar-brand" href="#">
         <div v-if="main.logo">

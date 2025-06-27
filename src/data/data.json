@@ -80,97 +80,65 @@
     ]
   },
   "portfolio": {
-    "defaultFilter": "mountains",
+    "defaultFilter": "games",
     "projects": [
       {
-        "title": "Peaceful Valley",
-        "description": "S1E8",
-        "image": "peacefulvalley.png",
-        "link": "https://www.twoinchbrush.com/painting/peaceful-valley",
-        "source": "https://www.twoinchbrush.com/painting/peaceful-valley",
-        "filter": "mountains"
+        "title": "Bubble Fight!",
+        "description": "A Unity game where you trap the opponent in bubbles. Made for the 2025 Global Game Jam, in Turin.",
+        "image": "src/assets/images/bubble_fight.png",
+        "link": "https://profcarry.itch.io/bubble-fight",
+        "filter": "games",
+        "date": "Jan 2025"
       },
       {
-        "title": "Meadow Lake",
-        "description": "S2E1",
-        "image": "meadowlake.png",
-        "link": "https://www.twoinchbrush.com/painting/meadow-lake",
-        "source": "https://www.twoinchbrush.com/painting/meadow-lake",
-        "filter": "mountains"
+        "title": "Touhou: Hidden spar in Fur season",
+        "description": "A Godot 4.2 game made for the 2024 Touhou Game Jam where you deflect and dodge bullets.",
+        "image": "src/assets/images/touhou.png",
+        "link": "https://jsmash-salted.itch.io/touhou-hidden-spar-in-fur-season",
+        "filter": "games",
+        "date": "Aug 2024"
       },
       {
-        "title": "Final Grace",
-        "description": "S2E13",
-        "image": "finalgrace.png",
-        "link": "https://www.twoinchbrush.com/painting/final-grace",
-        "source": "https://www.twoinchbrush.com/painting/final-grace",
-        "filter": "mountains"
+        "title": "Mandragola II",
+        "description": "A Unity local multiplayer game I made for the 2023 Global Game Jam in Turin.",
+        "image": "src/assets/images/mandragola.png",
+        "link": "https://tio.itch.io/mandragola-ii",
+        "filter": "games",
+        "date": "Dec 2023"
       },
       {
-        "title": "Purple Splendor",
-        "description": "S4E1",
-        "image": "purplesplendor.png",
-        "link": "https://www.twoinchbrush.com/painting/purple-splendor",
-        "source": "https://www.twoinchbrush.com/painting/purple-splendor",
-        "filter": "snow"
+        "title": "DgcReader",
+        "description": "A fork of DevTrevi's DgcReader: an extensible .NET library for decoding and validating European Digital Green Certificates.",
+        "image": "src/assets/images/dgcreader.png",
+        "link": "https://github.com/Mrizzi-96/DgcReader",
+        "filter": "software",
+        "date": "Feb 2022"
       },
       {
-        "title": "Winter Stillness",
-        "description": "S5E4",
-        "image": "winterstillness.png",
-        "link": "https://www.twoinchbrush.com/painting/winter-stillness",
-        "source": "https://www.twoinchbrush.com/painting/winter-stillness",
-        "filter": "snow"
-      },
-      {
-        "title": "Grey Winter",
-        "description": "S7E11",
-        "image": "greywinter.png",
-        "link": "https://www.twoinchbrush.com/painting/grey-winter",
-        "source": "https://www.twoinchbrush.com/painting/grey-winter",
-        "filter": "snow"
-      },
-      {
-        "title": "Bubbling Stream",
-        "description": "S3E3",
-        "image": "bubblingstream.png",
-        "link": "https://www.twoinchbrush.com/painting/bubbling-stream",
-        "source": "https://www.twoinchbrush.com/painting/bubbling-stream",
-        "filter": "water"
-      },
-      {
-        "title": "Blaze of Color",
-        "description": "S6E13",
-        "image": "blazeofcolor.png",
-        "link": "https://www.twoinchbrush.com/painting/blaze-of-color",
-        "source": "https://www.twoinchbrush.com/painting/blaze-of-color",
-        "filter": "water"
-      },
-      {
-        "title": "Night Light",
-        "description": "S3E8",
-        "image": "nightlight.png",
-        "link": "https://www.twoinchbrush.com/painting/night-light",
-        "source": "https://www.twoinchbrush.com/painting/night-light",
-        "filter": "water"
+        "title": "WebCompiler",
+        "description": "A fork of Mads Kristensen's WebCompiler extension, updated in order to make it function on Visual Studio 2022.",
+        "image": "src/assets/images/webCompiler.png",
+        "link": "https://github.com/Mrizzi-96/WebCompiler",
+        "filter": "software",
+        "date": "Jan 2022"
       }
     ]
   },
   "contact": {
-    "text": "It will be pretty hard to reach me, probably.",
+    "text": "I am always open to all opportunities, so ask away! I will reach you as soon as possible.",
     "formTitle": "Send Me A Message",
     "formEndPoint": "",
-    "city": "Orlando, Florida",
-    "email": "info@bobross.com",
-    "phone": "1-800-BOB-ROSS",
-    "resumeLink": "https://www.twoinchbrush.com/all-paintings",
+    "city": "Tortona, Italy",
+    "email": "marco.rizzi.dev@proton.me",
+    "phone": "",
+    "resumeLink": "",
     "form": true,
 
     "social": [
       {
-        "name": "twitter",
-        "url": "https://twitter.com/bobrossofficial",
-        "faClass": "fab fa-twitter"
+        "name": "Itch.io",
+        "url": "https://mark7713.itch.io/",
+        "faClass": "fab fa-itch-io"
       },
       {
         "name": "facebook",
@@ -185,6 +153,6 @@
     ]
   },
   "footer": {
-    "copyrightText": "All Rights Reserved."
+    "copyrightText": "@2025 - Marco Camillo Rizzi"
   }
 }
