@@ -2,6 +2,8 @@
   <section id="skills" class="bg-dark">
     <div class="container">
       <h2 class="section-header">Skills</h2>
+    </div>
+    <div class="container">
       <div class="row row-cols-sm-2 row-cols-lg-3 g-3 pt-3 justify-content-around">
         <div class="col-auto">
           <div class="d-flex flex-column align-items-center justify-content-center">

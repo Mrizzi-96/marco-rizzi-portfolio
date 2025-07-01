@@ -2,6 +2,8 @@
   <section id="portfolio">
     <div class="container">
       <h2 class="section-header">My portfolio</h2>
+    </div>
+    <div class="container">
       <div
         :class="
           'pt-3 row row-cols-sm-1 row-cols-md-2 gy-4 align-items-center justify-content-start ' +

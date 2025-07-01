@@ -2,6 +2,8 @@
   <section id="about">
     <div class="container">
       <h2 class="section-header">About me</h2>
+    </div>
+    <div class="container">
       <div class="row pt-3">
         <div class="col col-sm-6 col-lg-8">
           <span class="bio">{{ about.bio }}</span>

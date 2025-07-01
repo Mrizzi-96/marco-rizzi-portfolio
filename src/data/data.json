@@ -28,57 +28,6 @@
       }
     ]
   },
-  "skills": {
-    "defaultCategory": "Painting",
-
-    "categories": [
-      {
-        "category": "Painting",
-        "subtitle": "My true passion!",
-        "faClass": "fas fa-paint-brush",
-        "skillList": [
-          {
-            "name": "Oil Painting",
-            "level": "100"
-          },
-          {
-            "name": "Watercolor",
-            "level": "90"
-          },
-
-          {
-            "name": "Acrylic",
-            "level": "70"
-          },
-          {
-            "name": "Pastels",
-            "level": "60"
-          }
-        ]
-      },
-
-      {
-        "category": "Teaching",
-        "subtitle": "",
-        "faClass": "fas fa-chalkboard-teacher",
-        "skillList": [
-          {
-            "name": "Communication",
-            "level": "90"
-          },
-
-          {
-            "name": "Patience",
-            "level": "100"
-          },
-          {
-            "name": "Leadership",
-            "level": "90"
-          }
-        ]
-      }
-    ]
-  },
   "portfolio": {
     "defaultFilter": "games",
     "projects": [
@@ -153,6 +102,10 @@
     ]
   },
   "footer": {
-    "copyrightText": "@2025 - Marco Camillo Rizzi"
+    "copyrightText": "@2025 - Marco Camillo Rizzi",
+    "itchPath": "https://mark7713.itch.io/",
+    "gitPath": "https://github.com/Mrizzi-96",
+    "linkedinPath": "https://www.linkedin.com/in/marco-camillo-rizzi/",
+    "instagramPath": "https://www.instagram.com/marco_rizzi996/"
   }
 }
