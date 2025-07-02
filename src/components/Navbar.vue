@@ -2,9 +2,6 @@
   <nav class="navbar navbar-expand-lg fixed-top dark-bg">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <div v-if="main.logo">
-          <img src="../../assets/images/logo.png" alt="logo" id="Logo" />
-        </div>
         <div v-if="!main.logo" class="header-title__logo">
           <span id="FirstName">{{ main.name.first }}</span>
           <span id="LastName">{{ main.name.last }}</span>
@@ -56,7 +53,7 @@ ul#navbar-nav > li > a:hover {
   color: var(--portfolio-primary);
 }
 </style>
-<script lang="js">
+<script lang="ts">
 import data from '../data/data.json'
 
 export default {
