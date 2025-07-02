@@ -8,7 +8,7 @@
   <Footer></Footer>
 </template>
 
-<script>
+<script lang="ts">
 import Navbar from './components/Navbar.vue'
 import AboutView from './views/AboutView.vue'
 import ContactView from './views/ContactView.vue'
@@ -29,13 +29,6 @@ export default {
     Footer,
   },
 }
-
-document.querySelectorAll('.nav-link').forEach((link) => {
-  if (link.href === window.location.href) {
-    link.classList.add('active')
-    link.setAttribute('aria-current', 'page')
-  }
-})
 </script>
 
 <style>
