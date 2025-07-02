@@ -22,7 +22,7 @@
           <div class="d-flex flex-column align-items-center justify-content-center">
             <img
               class="profile-pic d-block"
-              src="../assets/images/portrait.png"
+              src="../assets/images/profile.jpg"
               alt="profile picture"
             />
             <a
@@ -62,6 +62,10 @@ export default {
 <style>
 .profile-pic {
   border: 1px solid var(--portfolio-primary);
+  aspect-ratio: 4/3;
+  width: 15rem;
+  height: 15rem;
+  object-fit: cover;
   border-radius: 100%;
 }
 .facts-list {

@@ -15,8 +15,8 @@
                   <input type="email" class="form-control" id="SenderMail" />
                   <label class="form-label" for="Message">Message</label>
                   <textarea class="form-control" rows="10"></textarea>
-                  <button class="btn btn-primary w-100 mt-3">
-                    <font-awesome-icon :icon="['fas', 'paper-plane']" />Send message
+                  <button class="btn btn-primary w-100 mt-3" disabled>
+                    <font-awesome-icon :icon="['fas', 'paper-plane']" /> Coming soon!
                   </button>
                 </form>
               </div>
