@@ -34,7 +34,7 @@
       {
         "title": "Bubble Fight!",
         "description": "A Unity game where you trap the opponent in bubbles. Made for the 2025 Global Game Jam, in Turin.",
-        "image": "/src/assets/images/bubble_fight.png",
+        "image": "bubble_fight.png",
         "link": "https://profcarry.itch.io/bubble-fight",
         "filter": "games",
         "date": "Jan 2025"
@@ -42,7 +42,7 @@
       {
         "title": "Touhou: Hidden spar in Fur season",
         "description": "A Godot 4.2 game made for the 2024 Touhou Game Jam where you deflect and dodge bullets.",
-        "image": "/src/assets/images/touhou.png",
+        "image": "touhou.png",
         "link": "https://jsmash-salted.itch.io/touhou-hidden-spar-in-fur-season",
         "filter": "games",
         "date": "Aug 2024"
@@ -50,7 +50,7 @@
       {
         "title": "Mandragola II",
         "description": "A Unity local multiplayer game I made for the 2023 Global Game Jam in Turin.",
-        "image": "/src/assets/images/mandragola.png",
+        "image": "mandragola.png",
         "link": "https://tio.itch.io/mandragola-ii",
         "filter": "games",
         "date": "Dec 2023"
@@ -58,7 +58,7 @@
       {
         "title": "DgcReader",
         "description": "A fork of DevTrevi's DgcReader: an extensible .NET library for decoding and validating European Digital Green Certificates.",
-        "image": "/src/assets/images/dgcreader.png",
+        "image": "dgcreader.png",
         "link": "https://github.com/Mrizzi-96/DgcReader",
         "filter": "software",
         "date": "Feb 2022"
@@ -66,7 +66,7 @@
       {
         "title": "WebCompiler",
         "description": "A fork of Mads Kristensen's WebCompiler extension, updated in order to make it function on Visual Studio 2022.",
-        "image": "/src/assets/images/webCompiler.png",
+        "image": "webCompiler.png",
         "link": "https://github.com/Mrizzi-96/WebCompiler",
         "filter": "software",
         "date": "Jan 2022"

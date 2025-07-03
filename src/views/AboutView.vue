@@ -28,7 +28,7 @@
             <a
               type="button"
               target="_blank"
-              href="src/assets/pdf/CV-Marco Camillo Rizzi.pdf"
+              href="CV_RIZZI.pdf"
               download
               class="btn btn-primary resume-btn mt-3"
             >
