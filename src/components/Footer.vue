@@ -1,6 +1,6 @@
 <template>
   <div class="container footer">
-    <div class="row justify-content-center align-items-baseline pb-3">
+    <div class="row justify-content-center align-items-baseline pb-2">
       <div class="col-auto">
         <a :href="footer.linkedinPath" target="_blank">
           <font-awesome-icon class="contact-icon" :icon="['fab', 'linkedin']"
@@ -50,7 +50,7 @@ export default {
   padding-block: 1rem;
 }
 .contact-icon {
-  font-size: 4rem;
+  font-size: 2rem;
   color: var(--portfolio-primary);
   -moz-transition: all 0.1s ease-in;
   -o-transition: all 0.1s ease-in;
