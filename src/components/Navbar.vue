@@ -1,17 +1,16 @@
 <template>
-  <nav class="navbar navbar-expand-lg fixed-top dark-bg">
+  <nav class="navbar navbar-expand-lg fixed-top dark-bg" data-bs-theme="dark">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <div v-if="!main.logo" class="header-title__logo">
-          <span id="FirstName">{{ main.name.first }}</span>
-          <span id="LastName">{{ main.name.last }}</span>
+        <div class="navbar-logo">
+          <img src="/favicon.ico" class="nav-icon" />
         </div>
       </a>
       <button
         class="navbar-toggler"
         type="button"
-        data-toggle="collapse"
-        data-target="#navbarNavAltMarkup"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMarkup"
         aria-expanded="false"
         aria-label="Toggle navigation"
@@ -21,7 +20,7 @@
         ></span>
       </button>
       <div id="navbarNavAltMarkup" class="collapse navbar-collapse">
-        <ul id="navbar-nav" class="navbar-nav ms-auto">
+        <ul id="navbar-nav" class="navbar-nav ms-lg-auto align-items-center">
           <li class="active-nav">
             <a class="nav-item nav-link" href="#">Home</a>
           </li>
@@ -43,6 +42,7 @@
 ul#navbar-nav > li > a {
   color: var(--nav-text-white);
 }
+
 ul#navbar-nav > li > a:hover {
   color: var(--portfolio-primary);
 }
