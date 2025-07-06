@@ -10,7 +10,7 @@
           colNumber
         "
       >
-        <div class="col-12 col-md-auto" v-for="project in portfolio.projects">
+        <div class="col-12 col-sm-12 col-md-6" v-for="project in portfolio.projects">
           <div class="portfolio-card">
             <div class="portfolio-details">
               <h3 class="details-title">{{ project.title }}</h3>
@@ -21,7 +21,7 @@
               >
             </div>
             <img class="portfolio-img" :src="project.image" />
-            <p class="portfolio-badge-date">Jan 2025</p>
+            <p class="portfolio-badge-date">{{ project.date }}</p>
           </div>
         </div>
       </div>
