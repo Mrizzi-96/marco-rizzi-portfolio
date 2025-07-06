@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row justify-content-end">
         <div class="col flex-grow-1"></div>
-        <div class="col-12 col-sm-4">
+        <div class="col-12 col-sm-8 col-md-6 col-lg-4">
           <div class="contact-card">
             <div class="contact-container-title">
               <h4 class="contact-title">Get in touch</h4>

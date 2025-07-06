@@ -5,7 +5,7 @@
     </div>
     <div class="container">
       <div class="row pt-3">
-        <div class="col col-sm-6 col-lg-8">
+        <div class="col-12 col-md-6 col-lg-8">
           <span class="bio">{{ about.bio }}</span>
           <div class="row pt-3">
             <div class="col-12">
@@ -18,7 +18,7 @@
             </div>
           </div>
         </div>
-        <div class="col col-sm-6 col-lg-4">
+        <div class="col-12 col-md-6 col-lg-4">
           <div class="d-flex flex-column align-items-center justify-content-center">
             <img
               class="profile-pic d-block"
