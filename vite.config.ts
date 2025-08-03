@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/marco-rizzi-portfolio/',
+  base: 'https://mrizzi-96.github.io/marco-rizzi-portfolio/',
   plugins: [vue(), vueJsx(), vueDevTools()],
   resolve: {
     alias: {
