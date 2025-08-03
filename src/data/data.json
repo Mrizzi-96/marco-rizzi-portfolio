@@ -32,6 +32,14 @@
     "defaultFilter": "games",
     "projects": [
       {
+        "title": "Izakaya Rush",
+        "description": "A game for the 2025 Game Maker's Toolkit Game Jam, where you stack japanese-style plates in a Tetris-like fashion.",
+        "image": "izakaya_rush.png",
+        "link": "https://jsmash-salted.itch.io/izakaya-rush",
+        "filter": "games",
+        "date": "Aug 2025"
+      },
+      {
         "title": "Bubble Fight!",
         "description": "A Unity game where you trap the opponent in bubbles. Made for the 2025 Global Game Jam, in Turin.",
         "image": "bubble_fight.png",
