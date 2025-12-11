@@ -9,9 +9,9 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 export default defineConfig({
   base: '',
   plugins: [vue(), vueJsx(), vueDevTools()],
-  resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url)),
-    },
-  },
+  // resolve: {
+  //   alias: {
+  //     '@': fileURLToPath(new URL('./src', import.meta.url)),
+  //   },
+  // },
 })
