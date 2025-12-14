@@ -27,7 +27,6 @@
             />
             <a
               type="button"
-              target="_blank"
               href="CV Rizzi_EN_25.pdf"
               download
               class="btn btn-primary resume-btn mt-3"
